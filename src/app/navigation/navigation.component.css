@@ -1,0 +1,31 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  .myApp{
+    margin-left: 30px;
+  }
+  .homeNav,.AboutNav,.WExNav,.SkillNav,.ProjectNav,.ContactNav{
+    margin-right: 15px;
+    font-style: italic;
+    text-decoration: underline;
+    font-family: 'Roboto Condensed','sans-serif';
+  }
+
+  .navigationText h3{
+    /* font-family: 'Times New Roman', Times, serif; */
+    font-size: 3rem;
+    font-weight: bolder;
+    font-size: larger;
+    font-style: italic;
+    text-decoration: underline;
+    font-family: 'Roboto Condensed','sans-serif';
+  }
+  .title{
+    font-size: 3rem;
+    padding: 0 0 2rem;
+    text-align:center;
+    font-style: italic;
+    color: var(--black);
+    text-decoration: underline;
+    font-family: 'Roboto Condensed','sans-serif';
+  }
